@@ -12,6 +12,6 @@ public class SecondActivity extends AppCompatActivity {
         setContentView(R.layout.activity_second);
 
         Button button = findViewById(R.id.button);
-        
+
     }
 }
